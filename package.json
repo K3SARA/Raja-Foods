@@ -1,5 +1,5 @@
 {
-  "name": "pepsi-pos-platform",
+  "name": "Raja Food-pos-platform",
   "private": true,
   "workspaces": [
     "apps/*",
